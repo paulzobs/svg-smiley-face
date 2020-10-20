@@ -9,6 +9,7 @@
   stroke-linecap: round;
 }
 
+
 .left-eyebrow {
   transform: rotate(80deg);
   transform-origin: 100px 82px;
